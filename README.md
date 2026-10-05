@@ -13,6 +13,10 @@
 This is a beta version of the app **"Groove Music"**, the default media player of Windows 10.
  
 I do **not** own any of the beta files. What I created is a script that can install it anywhere, even in place of the new, shitty "Media Player".
+
+This was made exclusively to show some love to this defunct audio player, wich nobody cared about, but for some reason was so damn good.
+
+also the animations look fire on my 240hz screen, you should try this
  
 ## What the script does
  
