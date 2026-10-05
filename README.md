@@ -25,7 +25,7 @@ I do **not** own any of the beta files. What I created is a script that can inst
  Just double click the bat file in the release.
 ## Video
  
-[![Watch the video on YouTube](https://img.youtube.com/vi/LMrow979MP0/maxresdefault.jpg)](https://www.youtube.com/watch?v=LMrow979MP0)
+[![Watch the video on YouTube](https://img.youtube.com/vi/LMrow979MP0/maxresdefault.jpg)](https://youtu.be/8ukGfRlZwqY?si=qwnKuXfWjfEm7Wm1)
  
 ## Disclaimer
  
